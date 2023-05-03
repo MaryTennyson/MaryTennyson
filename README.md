@@ -1,12 +1,12 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://ebraratabay.com">Ebrar</a></h1>
 </div>
-<div align="center"width="20">
-   <h3>I possess extensive expertise in Flutter, Android (Java), and Kotlin, and have demonstrated
+<div align="center"
+   <h4>I possess extensive expertise in Flutter, Android (Java), and Kotlin, and have demonstrated
 proficiency in utilizing various tools and technologies such as Mobx, Provider, Hive, Shared
 Preferences, Firebase, API, JSON, and Postman for developing mobile applications with Flutter. In
 addition, I am skilled in designing user interfaces using Android (Java) and Kotlin. My objective is to
-pursue a career in mobile development and continue to enhance my skills and knowledge in this field</h3>
+pursue a career in mobile development and continue to enhance my skills and knowledge in this field</h4>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@ pursue a career in mobile development and continue to enhance my skills and know
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marytennyson&layout=compact&langs_count=8&theme=radical"/>
 </a>
    
-   ### 🤝🏻 &nbsp;Connect with Me 🤝
+   ###🌸 &nbsp;Connect with Me 🌸
 
 
 <a href="https://www.linkedin.com/in/ebraratabay/" target="_blank">
