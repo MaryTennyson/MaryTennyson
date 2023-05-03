@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://ebraratabay.com">Ebrar</a></h1>
 </div>
-<div align="center">
+<div align="center"width="20">
    <h1>I possess extensive expertise in Flutter, Android (Java), and Kotlin, and have demonstrated
 proficiency in utilizing various tools and technologies such as Mobx, Provider, Hive, Shared
 Preferences, Firebase, API, JSON, and Postman for developing mobile applications with Flutter. In
@@ -12,7 +12,7 @@ pursue a career in mobile development and continue to enhance my skills and know
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-   Ebrar Atabay| 📱 Mobile Developer | 🌆 İstanbul , TR  <img src="https://giphy.com/embed/LHZyixOnHwDDy" width="30">
+   Ebrar Atabay| 📱 Mobile Developer | 🌆 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>"
 
   
