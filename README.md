@@ -22,7 +22,7 @@ pursue a career in mobile development and continue to enhance my skills and know
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marytennyson&layout=compact&langs_count=8&theme=radical"/>
 </a>
    
-   ###🌸 &nbsp;Connect with Me 🌸
+   🌸 &nbsp;Connect with Me 🌸
 
 
 <a href="https://www.linkedin.com/in/ebraratabay/" target="_blank">
