@@ -13,9 +13,8 @@ pursue a career in mobile development and continue to enhance my skills and know
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
    Ebrar Atabay| 📱 Mobile Developer | 🌆 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   </h3>"
+   </h3>
 
-  
    <h3 align="center">My Stats:</h3>
 <a href="https://github.com/marytennyson">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marytennyson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
