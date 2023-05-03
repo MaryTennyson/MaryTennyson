@@ -2,11 +2,11 @@
    <h1>Hi there, I'm <a href="https://ebraratabay.com">Ebrar</a></h1>
 </div>
 <div align="center"width="20">
-   <h1>I possess extensive expertise in Flutter, Android (Java), and Kotlin, and have demonstrated
+   <h3>I possess extensive expertise in Flutter, Android (Java), and Kotlin, and have demonstrated
 proficiency in utilizing various tools and technologies such as Mobx, Provider, Hive, Shared
 Preferences, Firebase, API, JSON, and Postman for developing mobile applications with Flutter. In
 addition, I am skilled in designing user interfaces using Android (Java) and Kotlin. My objective is to
-pursue a career in mobile development and continue to enhance my skills and knowledge in this field</h1>
+pursue a career in mobile development and continue to enhance my skills and knowledge in this field</h3>
 </div>
 
 <div align="center">
