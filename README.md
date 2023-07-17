@@ -16,7 +16,10 @@ pursue a career in mobile development and continue to enhance my skills and know
    </h3>
 
    <h3 align="center">My Stats:</h3>
-<a href="https://github.com/marytennyson">
+<a href="https://github.com/marytennyson">  
+   <div align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marytennyson&theme=ayu_mirage" alt="Profil Özeti Kartı">
+   </div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marytennyson&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marytennyson&layout=compact&langs_count=8&theme=omni"/>
 </a>
