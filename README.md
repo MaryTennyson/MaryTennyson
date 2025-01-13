@@ -8,7 +8,7 @@
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-   Ebrar Atabay| 📱 Mobile Developer | 🌆 İstanbul , TR  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Ebrar Atabay| 📱 Mobile Developer | 🌆 ALABAMA, USA  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
 
    <h3 align="center">My Stats:</h3>
